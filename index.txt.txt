@@ -1,1 +1,2 @@
 this is new doc.
+with new lines.
